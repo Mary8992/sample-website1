@@ -21,6 +21,7 @@
   align-items: center;
   justify-content: space-between;
 }
+
 .logo {
   width: 85px;
   cursor: pointer;
@@ -70,10 +71,15 @@
   margin-top: 80px;
 }
 
+.banner h2 {
+  margin-top: 15px;
+}
+
 .content p {
-  margin: 20px auto;
+  margin: 30px auto;
   font-weight: 100;
-  line-height: 25px;
+  line-height: 30px;
+  margin-top: 50px;
 }
 
 button {
